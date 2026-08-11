@@ -1,0 +1,53 @@
+{
+  "name": "RUET Cover Page Generator",
+  "id": "com.nabilsnigdho.ruet-cover-page",
+  "icons": [
+    {
+      "src": "/static/image/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/image/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "short_name": "Cover Page",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en",
+  "dir": "ltr",
+  "description": "Create cover pages for your lab reports and assignments",
+  "categories": ["utility"],
+  "theme_color": "#ffffff",
+  "launch_handler": {
+    "client_mode": "auto"
+  },
+  "orientation": "natural",
+  "screenshots": [
+    {
+      "src": "/screenshot1.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "form_factor": "wide",
+      "label": "Classic cover page template"
+    },
+    {
+      "src": "/screenshot2.webp",
+      "sizes": "1280x720",
+      "type": "image/webp",
+      "form_factor": "wide",
+      "label": "Cover page customizations"
+    },
+    {
+      "src": "/screenshot3.webp",
+      "sizes": "412x915",
+      "type": "image/webp",
+      "form_factor": "narrow",
+      "label": "Mobile View"
+    }
+  ]
+}

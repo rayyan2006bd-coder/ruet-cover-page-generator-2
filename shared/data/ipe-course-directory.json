@@ -1,0 +1,619 @@
+{
+  "meta": {
+    "source": "RUET Course Curriculum (IPE Department, effective from 2020-2021 entry session)",
+    "note": "Use `code` as the key for autofill lookup. `type` distinguishes Theory vs Sessional/Lab vs Project. `credit` is total credit value.",
+    "generated": "2026-08-11"
+  },
+  "courses": [
+    {
+      "code": "Chem 1123",
+      "title": "Inorganic and Physical Chemistry",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "Phy 1123",
+      "title": "Physics-I",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "Math 1123",
+      "title": "Engineering Mathematics-I",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "Hum 1123",
+      "title": "Economics",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "EEE 1183",
+      "title": "Electrical Engineering-I",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 1100",
+      "title": "Engineering Graphics-I",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+    {
+      "code": "Chem 1124",
+      "title": "Chemistry Lab",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "Phy 1124",
+      "title": "Physics-I Lab",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "EEE 1184",
+      "title": "Electrical Engineering-I Lab",
+      "year": 1,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+
+    {
+      "code": "Chem 1223",
+      "title": "Industrial Chemistry",
+      "year": 1,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "Phy 1223",
+      "title": "Physics-II",
+      "year": 1,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "Math 1223",
+      "title": "Engineering Mathematics-II",
+      "year": 1,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "ME 1251",
+      "title": "Thermodynamics and Heat Transfer",
+      "year": 1,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "EEE 1283",
+      "title": "Electrical Engineering-II",
+      "year": 1,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 1200",
+      "title": "Engineering Graphics-II and CAD Lab",
+      "year": 1,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+    {
+      "code": "IPES 1202",
+      "title": "Shop Practice-I",
+      "year": 1,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "Phy 1224",
+      "title": "Physics-II Lab",
+      "year": 1,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "EEE 1284",
+      "title": "Electrical Engineering-II Lab",
+      "year": 1,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+
+    {
+      "code": "IPE 2101",
+      "title": "Engineering Economy",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 2.0
+    },
+    {
+      "code": "IPE 2113",
+      "title": "Engineering Materials and Metallurgy",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "Math 2123",
+      "title": "Engineering Mathematics-III",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "Hum 2123",
+      "title": "Technical English and Sociology",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "ME 2161",
+      "title": "Engineering Mechanics and Theory of Machines",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "IPES 2102",
+      "title": "Shop Practice-II",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 2114",
+      "title": "Engineering Materials and Metallurgy Lab",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "ME 2152",
+      "title": "Thermodynamics and Heat Transfer Lab",
+      "year": 2,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+
+    {
+      "code": "IPE 2201",
+      "title": "Organizational Behavior",
+      "year": 2,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 2.0
+    },
+    {
+      "code": "IPE 2203",
+      "title": "Probability and Statistics",
+      "year": 2,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "IPE 2211",
+      "title": "Production Process-I",
+      "year": 2,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "ME 2251",
+      "title": "Mechanics of Solids",
+      "year": 2,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "CSE 2283",
+      "title": "Introduction to Computer Programming",
+      "year": 2,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 2212",
+      "title": "Production Process-I Lab",
+      "year": 2,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "Hum 2224",
+      "title": "English Language Practice",
+      "year": 2,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "ME 2252",
+      "title": "Solid Mechanics Lab",
+      "year": 2,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "CSE 2284",
+      "title": "Introduction to Computer Programming Lab",
+      "year": 2,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.0
+    },
+
+    {
+      "code": "IPE 3101",
+      "title": "Operations Management",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3103",
+      "title": "Operations Research",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "IPE 3105",
+      "title": "Product Design-I",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3111",
+      "title": "Production Process-II",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3121",
+      "title": "Management Information System and Programming",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3106",
+      "title": "Product Design-I Lab",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+    {
+      "code": "IPE 3112",
+      "title": "Production Process-II Lab",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 3122",
+      "title": "Management Information System and Programming Lab",
+      "year": 3,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+
+    {
+      "code": "IPE 3201",
+      "title": "Quality Control and Management",
+      "year": 3,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3205",
+      "title": "Product Design-II",
+      "year": 3,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3211",
+      "title": "Machine Tools",
+      "year": 3,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "Math 3223",
+      "title": "Engineering Mathematics-IV",
+      "year": 3,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 4.0
+    },
+    {
+      "code": "ME 3251",
+      "title": "Fluid Mechanics and Machinery",
+      "year": 3,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 3200",
+      "title": "IPE Case Study",
+      "year": 3,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.0
+    },
+    {
+      "code": "IPE 3206",
+      "title": "Product Design-II Lab",
+      "year": 3,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+    {
+      "code": "IPE 3212",
+      "title": "Machine Tools Lab",
+      "year": 3,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "Math 3224",
+      "title": "Numerical Analysis Lab",
+      "year": 3,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "ME 3252",
+      "title": "Fluid Mechanics and Machinery Lab",
+      "year": 3,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+
+    {
+      "code": "IPE 4100",
+      "title": "Project and Thesis",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Project",
+      "credit": 1.5
+    },
+    {
+      "code": "IPE 4101",
+      "title": "Industrial and Business Management",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4103",
+      "title": "Ergonomics and Safety Management",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4121",
+      "title": "Measurement and Instrumentation",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4123",
+      "title": "CAD/CAM",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4131",
+      "title": "Optional-I",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4104",
+      "title": "Ergonomics and Safety Lab",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 4122",
+      "title": "Measurement and Instrumentation Lab",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 4124",
+      "title": "CAD/CAM Lab",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 4128",
+      "title": "Industrial Simulation Lab",
+      "year": 4,
+      "semester": "Odd",
+      "type": "Sessional",
+      "credit": 1.5
+    },
+
+    {
+      "code": "IPE 4200",
+      "title": "Project and Thesis",
+      "year": 4,
+      "semester": "Even",
+      "type": "Project",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4201",
+      "title": "Project and Environmental Management",
+      "year": 4,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4203",
+      "title": "Materials Handling and Maintenance Management",
+      "year": 4,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4205",
+      "title": "Cost and Management Accounting",
+      "year": 4,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4221",
+      "title": "Control Theory and Automation",
+      "year": 4,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4231",
+      "title": "Optional-II",
+      "year": 4,
+      "semester": "Even",
+      "type": "Theory",
+      "credit": 3.0
+    },
+    {
+      "code": "IPE 4204",
+      "title": "Materials Handling Lab",
+      "year": 4,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 4222",
+      "title": "Control Theory and Automation Lab",
+      "year": 4,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 0.75
+    },
+    {
+      "code": "IPE 4240",
+      "title": "Industrial Practice",
+      "year": 4,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.0
+    },
+    {
+      "code": "IPE 4242",
+      "title": "Engineering Communication Seminar",
+      "year": 4,
+      "semester": "Even",
+      "type": "Sessional",
+      "credit": 1.0
+    }
+  ],
+  "electives": {
+    "IPE 4131 (Optional-I)": [
+      "(a) Supply Chain Management",
+      "(b) Total Quality Management (TQM)",
+      "(c) Microprocessor Programming and Interfacing",
+      "(d) Intelligent Manufacturing",
+      "(e) Technology Management",
+      "(f) Micro-Manufacturing",
+      "(g) Entrepreneurship Development and Micro Industries",
+      "(h) Machine Vision and Image Processing"
+    ],
+    "IPE 4231 (Optional-II)": [
+      "(a) CNC Machine Tools",
+      "(b) IT in Manufacturing",
+      "(c) AI and Neuro-Fuzzy Theory",
+      "(d) Energy Management",
+      "(e) Computer Integrated Manufacturing (CIM)"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "arch",
+    "name": "Architecture",
+    "shortName": "Arch",
+    "slug": "architecture",
+    "faculty": "Civil Engineering",
+    "active": true
+  },
+  {
+    "id": "becm",
+    "name": "Building Engineering & Construction Management",
+    "shortName": "BECM",
+    "slug": "building-engineering-construction-management",
+    "faculty": "Civil Engineering",
+    "active": true
+  },
+  {
+    "id": "che",
+    "name": "Chemical Engineering",
+    "shortName": "ChE",
+    "slug": "chemical-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "ce",
+    "name": "Civil Engineering",
+    "shortName": "CE",
+    "slug": "civil-engineering",
+    "faculty": "Civil Engineering",
+    "active": true
+  },
+  {
+    "id": "cse",
+    "name": "Computer Science & Engineering",
+    "shortName": "CSE",
+    "slug": "computer-science-engineering",
+    "faculty": "Electrical & Computer Engineering",
+    "active": true
+  },
+  {
+    "id": "ece",
+    "name": "Electrical & Computer Engineering",
+    "shortName": "ECE",
+    "slug": "electrical-computer-engineering",
+    "faculty": "Electrical & Computer Engineering",
+    "active": true
+  },
+  {
+    "id": "eee",
+    "name": "Electrical & Electronic Engineering",
+    "shortName": "EEE",
+    "slug": "electrical-electronic-engineering",
+    "faculty": "Electrical & Computer Engineering",
+    "active": true
+  },
+  {
+    "id": "ete",
+    "name": "Electronics & Telecommunication Engineering",
+    "shortName": "ETE",
+    "slug": "electronics-telecommunication-engineering",
+    "faculty": "Electrical & Computer Engineering",
+    "active": true
+  },
+  {
+    "id": "cme",
+    "name": "Ceramic & Metallurgical Engineering",
+    "shortName": "CME",
+    "slug": "ceramic-metallurgical-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "ipe",
+    "name": "Industrial & Production Engineering",
+    "shortName": "IPE",
+    "slug": "industrial-production-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "mse",
+    "name": "Materials Science & Engineering",
+    "shortName": "MSE",
+    "slug": "materials-science-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "me",
+    "name": "Mechanical Engineering",
+    "shortName": "ME",
+    "slug": "mechanical-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "mte",
+    "name": "Mechatronics Engineering",
+    "shortName": "MTE",
+    "slug": "mechatronics-engineering",
+    "faculty": "Mechanical Engineering",
+    "active": true
+  },
+  {
+    "id": "urp",
+    "name": "Urban & Regional Planning",
+    "shortName": "URP",
+    "slug": "urban-regional-planning",
+    "faculty": "Civil Engineering",
+    "active": true
+  },
+  {
+    "id": "chem",
+    "name": "Chemistry",
+    "shortName": "Chem",
+    "slug": "chemistry",
+    "faculty": "Applied Science & Humanities",
+    "active": true
+  },
+  {
+    "id": "math",
+    "name": "Mathematics",
+    "shortName": "Math",
+    "slug": "mathematics",
+    "faculty": "Applied Science & Humanities",
+    "active": true
+  },
+  {
+    "id": "phy",
+    "name": "Physics",
+    "shortName": "Phy",
+    "slug": "physics",
+    "faculty": "Applied Science & Humanities",
+    "active": true
+  },
+  {
+    "id": "hum",
+    "name": "Humanities",
+    "shortName": "Hum",
+    "slug": "humanities",
+    "faculty": "Applied Science & Humanities",
+    "active": true
+  }
+]

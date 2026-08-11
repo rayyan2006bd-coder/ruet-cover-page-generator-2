@@ -1,0 +1,44 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: ruet_cover
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - ruet-cover-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d ruet_cover"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  api:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    environment:
+      NODE_ENV: development
+      PORT: 8787
+      DATABASE_URL: postgresql://postgres:postgres@postgres:5432/ruet_cover
+      CORS_ORIGINS: http://localhost:3000,http://localhost:8080,http://localhost:8787
+      ADMIN_TOKEN_HASH: ""
+      LOG_LEVEL: info
+    ports:
+      - "8787:8787"
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    read_only: true
+    tmpfs:
+      - /tmp
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: ["sh", "-c", "bun --cwd server run db:migrate && bun --cwd server run db:seed && bun --cwd server run start"]
+
+volumes:
+  ruet-cover-postgres:

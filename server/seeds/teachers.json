@@ -1,0 +1,83 @@
+[
+  {
+    "id": "10000000-0000-4000-8000-000000000001",
+    "fullName": "A H M Sarowar Sattar",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["A.H.M. Sarowar Sattar", "A H M Sarowar", "Sarowar Sattar"],
+    "profileUrl": "https://www.ruet.ac.bd/sarowar",
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000002",
+    "fullName": "Dr. Md. Shahid Uz Zaman",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Md Shahid Uz Zaman", "Shahid Uz Zaman"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000003",
+    "fullName": "Dr. Md. Nazrul Islam Mondal",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Md Nazrul Islam Mondal"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000004",
+    "fullName": "Dr. Md. Rabiul Islam",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Md Rabiul Islam"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000005",
+    "fullName": "Prof. Dr. Boshir Ahmed",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Boshir Ahmed"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000006",
+    "fullName": "Prof. Dr. Md. Al Mamun",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Md Al Mamun", "Al Mamun"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000007",
+    "fullName": "Dr. Mir Md. Jahangir Kabir",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Mir Md Jahangir Kabir", "Jahangir Kabir"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  },
+  {
+    "id": "10000000-0000-4000-8000-000000000008",
+    "fullName": "Dr. Md. Al Mehedi Hasan",
+    "designation": "Professor",
+    "department": "CSE",
+    "aliases": ["Md Al Mehedi Hasan", "Al Mehedi Hasan"],
+    "sourceUrl": "https://www.cse.ruet.ac.bd/teacher_list",
+    "lastVerifiedAt": "2026-08-11",
+    "active": true
+  }
+]
