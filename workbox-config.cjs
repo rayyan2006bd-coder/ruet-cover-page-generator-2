@@ -1,10 +1,15 @@
+const publicBasePath = process.env.PUBLIC_BASE_PATH || '/';
+
 module.exports = {
   globDirectory: 'dist/',
   globPatterns: [
     '**/*.{mjs,txt,png,ico,html,webmanifest,jpg,jpeg,webp,svg,css,ttf,js,json,wasm,gz}',
   ],
   swDest: 'dist/sw.js',
-  navigateFallback: '/index.html',
+  navigateFallback: `${publicBasePath}index.html`,
+  modifyURLPrefix: {
+    '': publicBasePath,
+  },
   navigateFallbackDenylist: [/^\/api\//],
   cleanupOutdatedCaches: true,
   clientsClaim: false,

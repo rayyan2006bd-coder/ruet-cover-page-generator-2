@@ -26,7 +26,9 @@ if (
 ) {
   const { Workbox } = await import('workbox-window');
 
-  const wb = new Workbox('/sw.js');
+  const assetPrefix = process.env.ASSET_PREFIX || '';
+  const serviceWorkerUrl = `${assetPrefix.replace(/\/?$/, '/')}sw.js`;
+  const wb = new Workbox(serviceWorkerUrl);
 
   wb.addEventListener('installed', (event) => {
     if (!event.isUpdate) {

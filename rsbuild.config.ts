@@ -3,8 +3,13 @@ import { pluginNodePolyfill } from '@rsbuild/plugin-node-polyfill';
 import { pluginReact } from '@rsbuild/plugin-react';
 import { RsdoctorRspackPlugin } from '@rsdoctor/rspack-plugin';
 
+const publicBasePath = process.env.PUBLIC_BASE_PATH || '/';
+const publicSiteUrl =
+  'https://rayyan2006bd-coder.github.io/ruet-cover-page-generator-2/';
+
 export default defineConfig({
   output: {
+    assetPrefix: publicBasePath,
     sourceMap: false,
   },
   plugins: [pluginReact(), pluginNodePolyfill()],
@@ -35,11 +40,11 @@ export default defineConfig({
     meta: {
       description: 'Create cover pages for your lab reports and assignments',
       'msapplication-TileColor': '#603cba',
-      'og:url': 'https://ruet-cover-page.github.io/',
+      'og:url': publicSiteUrl,
       'og:title': 'RUET Cover Page Generator',
       'og:description':
         'Create cover pages for your lab reports and assignments',
-      'og:image': 'https://ruet-cover-page.github.io/og.jpg',
+      'og:image': `${publicSiteUrl}og.jpg`,
       'og:image:width': '1200',
       'og:image:height': '630',
       'og:image:type': 'image/jpeg',
