@@ -39,12 +39,12 @@ const GeneratorApp = () => {
   }, []);
 
   return (
-    <main className="fixed inset-0 flex divide-x">
+    <main className="flex h-dvh min-h-0 w-full overflow-hidden divide-x">
       <QueryClientProvider client={queryClient}>
         <WorkspaceController />
         <div
           className={cn(
-            'flex min-w-0 flex-1 origin-left flex-col divide-y transition-all',
+            'flex min-h-0 min-w-0 flex-1 origin-left flex-col divide-y transition-all',
             previewMode && 'max-lg:invisible max-lg:grow-0 max-lg:scale-x-0',
           )}
         >
@@ -54,7 +54,7 @@ const GeneratorApp = () => {
         {(!isMobile || previewMode) && (
           <div
             className={cn(
-              'flex min-w-0 flex-1 origin-left flex-col divide-y transition-all bg-neutral-500',
+              'flex min-h-0 min-w-0 flex-1 origin-left flex-col divide-y transition-all bg-neutral-500',
               previewMode || 'max-lg:invisible max-lg:grow-0 max-lg:scale-x-0',
             )}
           >

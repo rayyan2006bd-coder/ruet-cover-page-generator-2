@@ -18,14 +18,14 @@ const WorkspaceDialog = lazy(loadWorkspaceDialog);
 export function TopbarLeft() {
   const setPreviewMode = useSetAtom(previewModeAtom);
   return (
-    <div className="flex flex-wrap items-center justify-between gap-2 bg-secondary p-2">
-      <div className="flex items-center gap-2">
-        <img src={icon} alt="" className="h-8 w-auto" />
-        <h1 className="whitespace-nowrap font-semibold text-2xl">
+    <div className="flex min-h-14 shrink-0 items-center justify-between gap-2 bg-secondary px-2 py-1.5 sm:p-2">
+      <div className="flex min-w-0 items-center gap-2">
+        <img src={icon} alt="" className="h-7 w-auto shrink-0 sm:h-8" />
+        <h1 className="min-w-0 truncate whitespace-nowrap font-semibold text-xl sm:text-2xl">
           Cover Page <span className="max-sm:sr-only">Generator</span>
         </h1>
       </div>
-      <div className="flex items-center gap-2">
+      <div className="flex shrink-0 items-center gap-1 sm:gap-2">
         <WorkspaceLauncher />
         <About />
         <ModeToggle />

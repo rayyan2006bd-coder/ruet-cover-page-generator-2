@@ -4,12 +4,20 @@
     position: fixed;
     inset: 0px;
     z-index: 50;
-    padding: 1rem /* 16px */;
+    width: 100dvw;
+    height: 100dvh;
+    padding: max(1rem, env(safe-area-inset-top))
+      max(1rem, env(safe-area-inset-right))
+      max(1rem, env(safe-area-inset-bottom))
+      max(1rem, env(safe-area-inset-left));
     margin: 0px;
     align-items: flex-start;
+    overflow: hidden;
 
     .command {
       height: auto;
+      min-width: 0;
+      flex: 1;
     }
     .backDrop {
       background-color: var(--popover);

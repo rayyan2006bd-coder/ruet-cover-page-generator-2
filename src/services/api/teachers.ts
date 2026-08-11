@@ -4,6 +4,7 @@ import {
   type TeacherDto,
   teacherDatasetSchema,
 } from '@shared/api-contracts';
+import bundledTeacherDirectory from '@shared/data/legacy-teacher-directory.json';
 import * as idbKeyVal from 'idb-keyval';
 import {
   departmentLongMap,
@@ -17,6 +18,9 @@ const VERIFIED_DATASET_KEY = 'verified-dataset-v1';
 const REFERENCE_DIRECTORY_URL =
   process.env.PUBLIC_LEGACY_TEACHER_API ||
   'https://api.nabilsnigdho.dev/teachers';
+const BUNDLED_TEACHER_DIRECTORY = legacyTeacherListSchema.parse(
+  bundledTeacherDirectory,
+);
 
 type LegacyTeacher = {
   name: string;
@@ -103,6 +107,19 @@ async function fetchReferenceTeacherDataset(
   return dataset;
 }
 
+async function createBundledTeacherDataset(): Promise<TeacherDataset> {
+  const items = normalizeLegacyTeachers(BUNDLED_TEACHER_DIRECTORY.list);
+  const checksum = await checksumItems(items);
+  const dataset = teacherDatasetSchema.parse({
+    version: `bundled-${checksum.slice(0, 12)}`,
+    checksum,
+    updatedAt: bundledTeacherDirectory.updatedAt,
+    items,
+  });
+  await idbKeyVal.set(VERIFIED_DATASET_KEY, dataset, teachersIDBStore);
+  return dataset;
+}
+
 export async function readCachedTeacherDataset(): Promise<TeacherDataset | null> {
   const current = teacherDatasetSchema.safeParse(
     await idbKeyVal.get(VERIFIED_DATASET_KEY, teachersIDBStore),
@@ -167,12 +184,12 @@ export async function syncTeacherDataset(
     // A single IndexedDB value makes replacement atomic.
     await idbKeyVal.set(VERIFIED_DATASET_KEY, downloaded, teachersIDBStore);
     return downloaded;
-  } catch (error) {
+  } catch {
     if (cached) return cached;
     try {
       return await fetchReferenceTeacherDataset(signal);
     } catch {
-      throw error;
+      return createBundledTeacherDataset();
     }
   }
 }

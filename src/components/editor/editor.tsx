@@ -37,7 +37,7 @@ import { TextInput } from './text-input';
 import { TextAreaInput } from './textarea-input';
 
 const tabContentClass = cn(
-  'flex-1 flex-col gap-y-4 overflow-y-auto p-4 data-[state=active]:flex prose dark:prose-invert max-w-full',
+  'min-h-0 flex-1 flex-col gap-y-4 overflow-x-hidden overflow-y-auto overscroll-contain px-4 py-3 data-[state=active]:flex prose dark:prose-invert max-w-full sm:p-4',
 );
 
 export function Editor() {
@@ -54,7 +54,7 @@ export function Editor() {
   return (
     <Tabs
       defaultValue="student"
-      className="flex flex-1 flex-col overflow-hidden"
+      className="flex min-h-0 flex-1 flex-col overflow-hidden"
       atom={editorStore.editorTab}
     >
       <TabsList className="h-auto w-full rounded-none">
@@ -67,7 +67,7 @@ export function Editor() {
           ] as const
         ).map(([x, Icon]) => (
           <TabsTrigger value={x} className="flex-1" key={x} aria-label={x}>
-            <Icon className="size-8" />
+            <Icon className="size-7 sm:size-8" />
           </TabsTrigger>
         ))}
       </TabsList>
@@ -194,7 +194,7 @@ export function Editor() {
         </FormItem>
         {!!teacherName && (
           <>
-            <hr className="-mx-4 mt-2 border-input" />
+            <hr className="not-prose -mx-4 my-2 border-input" />
             <FormItem label="Second Teacher Name">
               <TeacherName
                 nameAtom={editorStore.secondTeacherName}
@@ -223,7 +223,7 @@ export function Editor() {
                 </FormItem>
               </>
             )}
-            <hr className="-mx-4 mt-2 border-input" />
+            <hr className="not-prose -mx-4 my-2 border-input" />
           </>
         )}
         <Button

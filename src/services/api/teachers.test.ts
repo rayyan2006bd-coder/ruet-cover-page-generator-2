@@ -79,6 +79,27 @@ describe('offline teacher directory', () => {
     expect(fetchMock).toHaveBeenCalledTimes(2);
   });
 
+  test('uses the bundled directory when every teacher API is unavailable', async () => {
+    globalThis.fetch = mock(async () => {
+      throw new TypeError('offline');
+    }) as unknown as typeof fetch;
+
+    const dataset = await syncTeacherDataset();
+
+    expect(dataset.items.length).toBeGreaterThan(400);
+    expect(dataset.items).toContainEqual(
+      expect.objectContaining({
+        fullName: 'Dr. Shahed Mahmud',
+        designation: 'Professor',
+        department: expect.objectContaining({
+          name: 'Industrial & Production Engineering',
+          shortName: 'IPE',
+        }),
+      }),
+    );
+    expect((await readCachedTeacherDataset())?.checksum).toBe(dataset.checksum);
+  });
+
   test('validates and stores a changed dataset', async () => {
     const dataset: TeacherDataset = {
       version: '2026-08-11',

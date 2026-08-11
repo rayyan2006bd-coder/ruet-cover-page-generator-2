@@ -140,7 +140,7 @@ export function TeacherName({
   return (
     <div
       className={cn(
-        'flex items-center gap-2',
+        'flex w-full min-w-0 items-center gap-2',
         open && classes.containerFullScreen,
       )}
     >
@@ -217,7 +217,7 @@ export function TeacherName({
             onOpenAutoFocus={(e) => e.preventDefault()}
             onInteractOutside={(e) => e.preventDefault()}
             onFocus={() => inputRef.current?.focus()}
-            className="w-screen sm:w-[var(--radix-popper-anchor-width)] p-0"
+            className="w-[calc(100dvw-2rem)] max-w-[calc(100dvw-2rem)] p-0 data-[state=closed]:hidden sm:w-[var(--radix-popper-anchor-width)] sm:max-w-none"
           >
             <CommandList>
               {isLoading && (

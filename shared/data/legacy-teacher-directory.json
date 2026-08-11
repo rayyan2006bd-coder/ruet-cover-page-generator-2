@@ -1,0 +1,2436 @@
+{
+  "id": 53,
+  "list": [
+    {
+      "dept": "arch",
+      "name": "Md. Sabbir Ahsan",
+      "post": "Head"
+    },
+    {
+      "dept": "arch",
+      "name": "Md. Asaduzzaman",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Md. Sabbir Ahsan",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Z H M Monjur Murshed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Nadia Monzur",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Md Samiul Sabbir Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Md. Nazmul Hoda",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Md. Rafsun Jany",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Tamanna Sultana Swarna",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Farjana Jesmin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Sheikh Hameem",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "arch",
+      "name": "Nazia Afrin Trina",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "MD.EZAJUL ISLAM",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Prianka Das",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Nabilah Nargis",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Mohammad Rakibul Islam Anik",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Ashiqur Rahman Turjo",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Rabiul Islam Remon",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Farah Jamal",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Md Rafsan Zaman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Armin Rahman Mouly",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Lamia Tasnim Ankon",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "arch",
+      "name": "Shammi Akter Keya",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "Shayla Sharmin",
+      "post": "Head"
+    },
+    {
+      "dept": "becm",
+      "name": "MD. LUTFOR RAHMAN",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Ashadul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Shayla Sharmin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Mehedi Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Aojoy kumar Shuvo",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Faruque Abdullah",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "RAKIBUL HASAN",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Md. Ashraful Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Md. Nur Alam Riad",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "becm",
+      "name": "Md. Jubaer Hossain",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "Md. Mustakim",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "Showaib Ahmed Chowdhury",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "MD. Mehedi Hassan Galib",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "Md. Towfik Hassan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "becm",
+      "name": "MD. RUMMAN HOWLADER",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cme",
+      "name": "Prof. Dr. Md. Bodiul Islam",
+      "post": "Head"
+    },
+    {
+      "dept": "cme",
+      "name": "Professor Dr. Md. Shamimur Rahman",
+      "post": "Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Prof. Dr. Md. Bodiul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Dr. Md. Abdullah Al Mahmood",
+      "post": "Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Dr. Md. Rahat Al Hassan",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Tasmia Zaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Mst. Sharmin Mostari",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Aungkan sen",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Mintu Ali",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Abdul Kaiyum",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Humayan Kabir",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Shamima Akhter Urmi",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Khairul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Jahidul Haque",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Mst. Esmotara Begum",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Hasnat Jahan Sumona",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Estabrak Ahammod Sakib",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cme",
+      "name": "Shah Sadia Rahman Joya",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Sidratul Montaha Hossain",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cme",
+      "name": "Redwanul Haque",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cme",
+      "name": "Md. Rakibul Islam Bilash",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Dr. Mohammad Nurur Rahman",
+      "post": "Head"
+    },
+    {
+      "dept": "che",
+      "name": "Dr. Mohammad Nurur Rahman",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Dr. Mohammad Nurur Rahman",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Safat Anam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Sadia Sattar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Sajib Dey",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Md. Sajjad Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "che",
+      "name": "Maisa Rahman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "RUNA AFROZ RINTU",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Mst.Morium khatun",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Nisat Tasnim Songeeta",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Md Tariful Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Tanvir Mahtab Anik",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "che",
+      "name": "Pabitra Chandra Das",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Mayeedul Islam",
+      "post": "Head"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Ashraful Alam",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Abbas Ali",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Al-Amin-Al-Azadul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Mayeedul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Tarun Kumar Pal",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Md. Anwar Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Mst. Nahid Farha",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Dr. Jewel Hossen",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Siddhartha Sankar Saha",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Md. Shamsul Alam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Aktarun Nahar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "Sultana Razia",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "chem",
+      "name": "MD. AHAD ALI",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "chem",
+      "name": "Omeo Kumar Ghosh",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "chem",
+      "name": "Md. Ahad Ali",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "chem",
+      "name": "Md. Abdullah Al Mamun",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Prof. Dr. S. M. Zahurul Islam",
+      "post": "Head"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Abdul Alim",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "NHM Kamrujjaman Serker",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Kumruzzaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Niamul Bari",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Kamruzzaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Mahmud Sazzad",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Prof. Dr. S. M. Zahurul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Akhtar Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Shafiqul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Prof. Dr. Md. Robiul Awall",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Abu Sufian Md. Zia Hasan",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. H. M. Rasel",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Abu Sayeed",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Zahanggir Alam",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Anupam Chowdhury",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Bulbul Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Md Masud Rana",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Mintu Miah",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Ahmed Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Keya Roy",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "G. M. Harun- Or- Rashid",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Zahidul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Mahmud Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Miraz Ahamed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "MD. MOHAYMINUL ISLAM",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Mithun Chakrabartty",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Md. Sohel Rana",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Atika Hossain Akhi",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Md. Rafiul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Sumaya Tabassum",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Mohammad Ali",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Md. Rumman Howlader",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Abu Shad",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Shraboni Rani Paul",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Atonu Saha",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Briti Ray",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Ragib Noor Srijan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Md. Nobinur Rahman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Md Ashraful  Imran",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Md. Shafi Uddin Miah",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Syed Abdul Mofiz",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Tarif Uddin Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Dr. Tohur Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Iqbal Matin",
+      "post": "Professor"
+    },
+    {
+      "dept": "ce",
+      "name": "Mohd. Abdus Sobhan",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Shahid Uz Zaman",
+      "post": "Head"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Shahid Uz Zaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Nazrul Islam Mondal",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Rabiul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Prof. Dr. Boshir Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Prof. Dr. Md. Al Mamun",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "A H M Sarowar Sattar",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Mir Md. Jahangir Kabir",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Al Mehedi Hasan",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Professor Dr. Md. Ali Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Md. Arafat Hossain",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Shyla Afroge",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Rizoan Toufiq",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Dr. Julia Rahman",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Syed Tauhid Zuhori",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Firoz Mahmud",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Biprodip Pal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Emrana Kabir Hashi",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Mumu Aktar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Sadia Zaman Mishu",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Abu Sayeed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Barshon Sen",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Mahit Kumar Paul",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "S. M. Mahedy Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Suhrid Shakhar Ghosh",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Nahin Ul Sadad",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Zahirul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Farukuzzaman Faruk",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Mohiuddin Ahmed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Azmain Yakin Srizon",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "A. F. M. Minhazur Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Farjana Parvin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Utsha Das",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Nasif Osman Khansur",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Farhan Shakib",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Sozib Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "S.M. Shovan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Md Rakibul Haque",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Tasmia Jannat",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Mazharul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Khaled Zinnurine",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Saniul Islam Anik",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Mohammad Sakif Alam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Touhidul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Fahim Faisal",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "cse",
+      "name": "Bayezid Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Asifur Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "cse",
+      "name": "Md. Hedayetul Islam Sovon",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ece",
+      "name": "Prof. Dr. Md. Anwar Hossain",
+      "post": "Head"
+    },
+    {
+      "dept": "ece",
+      "name": "Prof. Dr. Md. Anwar Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Habibur Rahaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Tasnim Binte Shawkat",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Abdul Matin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Sagor Chandro Bakchy",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Mahabubur Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Milton Kumar Kundu",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Fariya Tabassum",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Robiul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Rakibul Hassan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Nahiduzzaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Abu Hanif Pramanik",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Hafsa Binte Kibria",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Omaer Faruq Goni",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Oishi Jyoti",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Md. Faysal Ahamed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Moloy Kumar Ghosh",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ece",
+      "name": "Nadim Reza",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ece",
+      "name": "Mst. Mazeda Noor Tasnim",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ece",
+      "name": "Mst. Mazeda Noor Tasnim",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ece",
+      "name": "Mst. Nafia Islam Shishir",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Masud Rana",
+      "post": "Head"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Rafiqul Islam Sheikh",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "S M Abdur Razzak",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Zahurul Islam Sarkar",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Ajay Krishno Sarkar",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Faruk Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Shamim Anower",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Shahidul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Selim Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Masud Rana",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Abdul Khaleque",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Sohel Rana",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Samiul Habib",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Tanvir Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. G.K.M. Hasanuzzaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Jishan-E-Giti",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Abu Sadat Md. Sayem",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Prof. Dr. Sumaiya Kabir",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Mohammod Abdul Motin",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Subarto Kumar Ghosh",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Mamunur Rashid",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Shadhon Chandra Mohonta",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Rashidul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Kusum Tara",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Alok Kumar Paul",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Tarek Hossein",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Ilias Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Ahasan Habib",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Farhamdur Reza",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Razon Chowdhury",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Reefat Inum",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "kamrun nahar shushama",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Ruhul Amin Ratul",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Belal Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Abdul Malek",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Sarwar Hosen",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md Firoz Mahmud",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Arafat Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Mahmudul Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Sarjana Shabab",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Sohani Munteha Hiam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Sunjidah Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md Mayenul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Nuhi-Alamin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Tasnim Sarker Joyeeta",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Sushanto Bosak",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Sakib Hossen",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Asif Zaman Rizve",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Ariful Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Khayrul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Roisul Ajom Ruku",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Rakibul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Zahid Hossain",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Mst. Nisat Tasnim Sadhona",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Kazi Khairul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md . Ashraful Hoque",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Fayzur Rahman",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Mortuza Ali",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Rabiul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Ruhul Amin",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Md. Yeakub Hussain",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Mirza Golam Rabbani",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Muhammad Abdul Goffar Khan",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Prof. A.M. Rezaul Karim Talukder",
+      "post": "Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Dr. Forhad Zaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Md. Shah Alam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "eee",
+      "name": "Pejush Chandra Sarkar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Md. Kamal Hosain",
+      "post": "Head"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Md. Kamal Hosain",
+      "post": "Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr Md Munjure Mowla",
+      "post": "Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Mst. Fateha Samad",
+      "post": "Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Shah Ariful Hoque Chowdhury",
+      "post": "Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Tushar Kanti Roy",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Md Rabiul Hasan",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "JANNATUL ROBAIAT MOU",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Sham Datto",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Md. Aslam Mollah",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "A. S. M. Badrudduza",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Dr. Md. Yeakub Ali",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Md. Rakib Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Shuvra Prokash Biswas",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Hasan Sarker",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Farzana Akter",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Md Abu Ismail Siddique",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Sharaf Tasnim",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ete",
+      "name": "Md. Mahmudul Hasan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Md. Rakibul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Md. Tarek Hassan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Mohammed Nazmul Islam Nahin",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Rubaeat Ahammed",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Rifa Tabassum Mim",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ete",
+      "name": "Abdulla Al Suman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Dr. Saila Ahmed",
+      "post": "Head"
+    },
+    {
+      "dept": "hum",
+      "name": "Md. Abu Bokar Siddique",
+      "post": "Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Dr. Kaniz Fatema",
+      "post": "Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Dr. Saila Ahmed",
+      "post": "Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Md. Golam Mostakim",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Mohammad Harun Or Rashid",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Mohammad Didar Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Tahmina Khatun",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Md Sayeed Anwar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Abdulla-All-Mijan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Monira Parvin Kona",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Kashfia Reza Tonni",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Ahsan Habib",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Mst. Mitu Pervin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Shoaib Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "hum",
+      "name": "Dr. Md. Rabiul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Md. Asadujjaman",
+      "post": "Head"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Md. Mosharraf Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Md. Asadujjaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Md. Mohibul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Shahed Mahmud",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Dr. Md. Sanowar Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Ariful Islam",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Khairun Nahar",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "SONIA AKHTER",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md Mashum Billal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Rakibul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Rasel Sarkar",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Zahidul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Sazol Ahmmed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Nusrath Zahan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Toukir Ahmed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Ariful Haque",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Limonur Rahman Lingkon",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "Jannatul Ferdous Mim",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "Parth Pratim Das Pritam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "Nadim Mahmud",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "Md. Mushiur Rahman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "MOMINUL ISLAM",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "ipe",
+      "name": "Khan Md. Ariful Haque",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Dr. Md. Aminul Islam",
+      "post": "Head"
+    },
+    {
+      "dept": "mse",
+      "name": "Md. Anisul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Maliha Rahman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Ayeman Mazdi Nahin",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Asrafuzzaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "S. M. Nasim Rokon",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Dr. Md. Aminul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Umme Salma Mst. Mahmuda",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Moumita Tasnim Meem",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Pabitro Prosad Mondal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mse",
+      "name": "Md. Al-Riad Tonmoy",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mse",
+      "name": "Md Aftab Kamal Rohit",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mse",
+      "name": "Ratul Islam Antor",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mse",
+      "name": "Md  Rafsan Jani Rudro",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mse",
+      "name": "Abdullah-Al-Mazed Khan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Helal Uddin Molla",
+      "post": "Head"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Shamsul Alam",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Bellal Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Mohammad Kamrul Hasan",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md Saifur Rahman",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Alal Hosen",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Helal Uddin Molla",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Ismot Ara Yeasmin",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Abdur Razzak",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md Suzan Ahamed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Nazmul Sharif",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Mst. Rupale Khatun",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Zahangir Alam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Dalim Haque",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Tamanna Tasnim Prova",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Abdul Alim",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Zakir Hossain",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "math",
+      "name": "MOMINUL ISLAM",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Feruj Alam",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Dr. Md. Majedur Rahman",
+      "post": "Professor"
+    },
+    {
+      "dept": "math",
+      "name": "Md. Nuruzzaman",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mohammad Shahed H K Tushar",
+      "post": "Head"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mohammad Rofiqul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Nirendra Nath Mustafi",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Emdadul Hoque",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Rokunuzzaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Nurul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mhia Md. Zaglul Shahadat",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md Rabiul Islam Sarker",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mohammad Shahed H K Tushar",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Shahajada Mahmudul Hasan",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mohammad U. H. Joardder",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Barun Kumar Das",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Shazib Uddin",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Abdul Kader",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Wahedul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Syed Mamun R Rasid",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Abdur Rahim",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Tasnuva Tabashhum Choudhury",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Asma-Ul-Husna",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Monjur Mourshed",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mahadi Hasan Masud",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Riaz Pervez",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md Saiful Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Sumaiya Sadika Tuly",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Jannatul Ferdous",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Golam Kibria",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Pronob Das",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Abdul mojid parvej",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Sanowar Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Nahid Hossan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Bakhtierkhalzi",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Miftahul Mobin Chowdhury Shabdik",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Mostafa Kamal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Mim Mashrur Ahmed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Durjoy Kumar Paul",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Raihan Karal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Hasibul Hasan Himel",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "FAZLUR RASHID",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Oishwarjya Ferdous",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Easmin Sultana",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "SHAH MOHAMMED TAKRIM",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Asma Akhter",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Mahabur Rahaman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Rasel Ahmed",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Tanjeeb Hossen Akash",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "MD. AL-AMIN",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Kazi Sumaya Islam Payel",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Mohammad Raihan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Sajjad Hasan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Md. Shamim Akhter",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Mohd. Rafiqul Alam Beg",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Sirajul Karim Choudhury",
+      "post": "Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Dr. Amit Roy",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "S M NAJMUL HOQUE",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "me",
+      "name": "Mahmudul Hasan",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Md. Sazan Rahman",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Mst.Sharifa Khatun",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "me",
+      "name": "Soumya Mandal",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Firoj Ali",
+      "post": "Head"
+    },
+    {
+      "dept": "mte",
+      "name": "Dr. Sajal Kumar Das",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Firoj Ali",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Dr. Zinat Tasneem",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md Manirul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Robiul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Dr. Dip Kumar Saha",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Sumaya Ishrat Moyeen",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Hafiz Ahamed",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Faisal Rahman Badal",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Mehedi Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Sarafat Hussain Abhi",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Subrata Kumar Sarker",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Prangon Das",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Sakib Hassan Chowdhury",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mte",
+      "name": "Safwat Mukarrama Choudhury",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mte",
+      "name": "Md Zunaid Hossen",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "mte",
+      "name": "Md. Meraj Ahmed",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Nuruzzaman",
+      "post": "Head"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Sazzad Hossain",
+      "post": "Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Abdul Kader Zilani",
+      "post": "Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Nuruzzaman",
+      "post": "Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Johirul Islam",
+      "post": "Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Abdul Hadi Shah",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Dr. Md. Faruk Hossain",
+      "post": "Associate Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Ariful Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Al Momin Md. Tanveer Karim",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Jubair",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Sarwar Pervez",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Rahat Ali",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Abdullah-Al-Mamun",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Sajidul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "phy",
+      "name": "Md. Raihan Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "Dr. Md. Abdul Wakil",
+      "post": "Head"
+    },
+    {
+      "dept": "urp",
+      "name": "Dr. MST ILME FARIDATUL",
+      "post": "Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Dr. Md. Abdul Wakil",
+      "post": "Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Dr. Md. Mostafizur Rahman",
+      "post": "Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Nazia Hossain",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Anutosh Das",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Md. Sakib Zubayer",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Faria Afrin Zinia",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Dulal Sarker",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Muhaiminul Islam",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Sumita Roy",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Md. Shakil Ar Salan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Muhammad Waresul Hassan Nipun",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Jahid Hasan",
+      "post": "Assistant Professor"
+    },
+    {
+      "dept": "urp",
+      "name": "Md. Arshadul Islam",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "Yeasin Ahmead",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "Junaid Imam Adib",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "HOSSAIN MOHIUDDIN",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "MD. NAIMUR RAHMAN",
+      "post": "Lecturer"
+    },
+    {
+      "dept": "urp",
+      "name": "Ferdous Farhana Huq",
+      "post": "Assistant Professor"
+    }
+  ],
+  "updatedAt": "2026-08-11T11:36:36.669Z"
+}
