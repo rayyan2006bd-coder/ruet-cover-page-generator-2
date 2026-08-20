@@ -69,7 +69,6 @@ export function PdfAutofillDialog({
   };
 
   const handleFileProcess = async (selectedFile: File) => {
-    setFile(selectedFile);
     setLoading(true);
     setError(null);
     setProgress({
