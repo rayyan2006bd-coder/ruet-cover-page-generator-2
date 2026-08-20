@@ -1,6 +1,6 @@
 {
   "name": "RUET Cover Page Generator",
-  "id": "com.nabilsnigdho.ruet-cover-page",
+  "short_name": "Cover Page",
   "icons": [
     {
       "src": "./static/image/android-chrome-192x192.png",
@@ -13,7 +13,6 @@
       "type": "image/png"
     }
   ],
-  "short_name": "Cover Page",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -23,9 +22,6 @@
   "description": "Create cover pages for your lab reports and assignments",
   "categories": ["utility"],
   "theme_color": "#ffffff",
-  "launch_handler": {
-    "client_mode": "auto"
-  },
   "orientation": "natural",
   "screenshots": [
     {

@@ -4,7 +4,6 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { lazy, Suspense, useEffect, useState } from 'react';
 import { useDebounce } from 'use-debounce';
 import { Editor } from './components/editor/editor';
-import { InApp } from './components/in-app';
 import { TopbarLeft } from './components/topbar';
 import { Update } from './components/update';
 import { WorkspaceController } from './components/workspace/workspace-controller';
@@ -67,7 +66,6 @@ const GeneratorApp = () => {
           </div>
         )}
       </QueryClientProvider>
-      <InApp />
       <Update />
     </main>
   );

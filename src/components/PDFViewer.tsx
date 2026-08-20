@@ -91,15 +91,14 @@ export function PDFViewer({
     width: undefined,
     height: undefined,
   });
-  const fitSize = useMemo(
-    () =>
-      size.height && size.width
-        ? size.height / size.width > Math.SQRT2
-          ? { width: size.width, height: size.width * Math.SQRT2 }
-          : { width: size.height * Math.SQRT1_2, height: size.height }
-        : undefined,
-    [size],
-  );
+  const fitSize = useMemo(() => {
+    if (!size.height || !size.width) return undefined;
+    const availWidth = Math.max(100, size.width - 16);
+    const availHeight = Math.max(100, size.height - 16);
+    return availHeight / availWidth > Math.SQRT2
+      ? { width: availWidth, height: availWidth * Math.SQRT2 }
+      : { width: availHeight * Math.SQRT1_2, height: availHeight };
+  }, [size]);
 
   const onResize = useDebouncedCallback(setSize, 200);
 

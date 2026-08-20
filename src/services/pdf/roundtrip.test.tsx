@@ -133,4 +133,90 @@ describe('structured PDF round trip', () => {
     expect(result.cover.submissionDate).toBe('2026-04-23T00:00:00.000Z');
     expect(result.warnings).toEqual([]);
   });
+
+  test('parses Sample 1 with two teachers and side-by-side columns', () => {
+    const sample1Text = `Heaven’s Light is Our Guide
+Rajshahi University of Engineering & Technology
+Rajshahi-6204, Bangladesh 
+Department of Industrial & Production Engineering 
+LAB REPORT
+ Course No.: ME 2152
+ Course Title: Thermodynamics and Heat Transfer Lab
+Experiment No:
+Name of the Experiment:
+Submitted by: Submitted to:
+Souvik Kundu Md. Ariful Islam
+Group :02 Associate Professor
+Roll:2405015 Dept. of IPE, RUET
+ 
+ Shah Mohammed Takrim
+ Lecturer
+ Dept. of ME, RUET
+Date of Submission:`;
+
+    const result = parseRuetCoverText(sample1Text, 1);
+    expect(result.cover.student).toMatchObject({
+      name: 'Souvik Kundu',
+      roll: '2405015',
+      group: '02',
+      department: 'Industrial & Production Engineering',
+    });
+    expect(result.cover.course).toMatchObject({
+      code: 'ME 2152',
+      title: 'Thermodynamics and Heat Transfer Lab',
+      department: 'Industrial & Production Engineering',
+    });
+    expect(result.cover.coverType).toBe('Lab Report');
+    expect(result.cover.teachers).toHaveLength(2);
+    expect(result.cover.teachers?.[0]).toMatchObject({
+      name: 'Md. Ariful Islam',
+      designation: 'Associate Professor',
+      department: 'Industrial & Production Engineering',
+    });
+    expect(result.cover.teachers?.[1]).toMatchObject({
+      name: 'Shah Mohammed Takrim',
+      designation: 'Lecturer',
+      department: 'Mechanical Engineering',
+    });
+  });
+
+  test('parses Sample 2 with math course, assignment title, and single teacher', () => {
+    const sample2Text = `Heaven’s Light is Our Guide
+Rajshahi University of Engineering & Technology
+Department of Industrial & Production Engineering
+Course No.: Math-2123
+Course Title: Engineering Mathematics - III
+Assignment No. : 01
+Assignment Title : Assignment on Fourier Transform
+Submitted by:
+Md. Mehedi Hasan
+Roll: 2405055
+Submitted to:
+Dr. Md Saifur Rahman
+Professor
+Dept. of Mathematics, RUET
+Date of Submission : 19 August 2026`;
+
+    const result = parseRuetCoverText(sample2Text, 1);
+    expect(result.cover.student).toMatchObject({
+      name: 'Md. Mehedi Hasan',
+      roll: '2405055',
+      department: 'Industrial & Production Engineering',
+    });
+    expect(result.cover.course).toMatchObject({
+      code: 'Math-2123',
+      title: 'Engineering Mathematics - III',
+      department: 'Industrial & Production Engineering',
+    });
+    expect(result.cover.coverType).toBe('Assignment');
+    expect(result.cover.itemNumber).toBe('01');
+    expect(result.cover.title).toBe('Assignment on Fourier Transform');
+    expect(result.cover.submissionDate).toBe('2026-08-19T00:00:00.000Z');
+    expect(result.cover.teachers).toHaveLength(1);
+    expect(result.cover.teachers?.[0]).toMatchObject({
+      name: 'Dr. Md Saifur Rahman',
+      designation: 'Professor',
+      department: 'Mathematics',
+    });
+  });
 });

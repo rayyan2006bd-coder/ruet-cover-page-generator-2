@@ -22,6 +22,7 @@ import editorStore, {
 import { teacherEffect } from '@/store/effects/editor';
 import { previewModeAtom } from '@/store/preview-mode';
 import { activeIdentityLocksAtom } from '@/store/workspace';
+import { PdfAutofillDialog } from '../pdf-autofill-dialog';
 import { Switch } from '../ui/switch';
 import { Combobox } from './combobox';
 import { CourseDirectory } from './course-directory';
@@ -72,7 +73,10 @@ export function Editor() {
         ))}
       </TabsList>
       <TabsContent value="student" className={tabContentClass}>
-        <h2>Student</h2>
+        <div className="flex items-center justify-between not-prose">
+          <h2 className="text-xl font-bold">Student</h2>
+          <PdfAutofillDialog />
+        </div>
         <SwitchInput
           atom={editorStore.manualSubmittedBy}
           label="Manual Input"
